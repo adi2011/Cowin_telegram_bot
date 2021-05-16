@@ -6,7 +6,7 @@ import requests, json
 print('Hoo rha h ruko..')
 
 def start_command(update,context):
-	update.message.reply_text('Ye sirf ajmer k liay h kuki baaki sb ko zinda rehna ka koi adhikar ni h\n Enter date in the format DD-MM-YYYY')
+	update.message.reply_text('~ADITYA SHARMA~\n\nYe sirf ajmer k liay h\n\nEnter date in the format DD-MM-YYYY\n')
 
 def vaccine_command(update, context):
 	pin = '305001'
